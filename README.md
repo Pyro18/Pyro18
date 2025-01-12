@@ -48,7 +48,6 @@
 ## 📊 GitHub Stats
 
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pyro18" alt="Pyro18" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pyro18&show_icons=true&locale=en&layout=compact" alt="Pyro18" />
 </div>
 
