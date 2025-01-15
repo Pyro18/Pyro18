@@ -6,15 +6,11 @@
 
 ## 💻 Current Work
 
-🚀 **I'm currently working on** [project name](project link)
-
-👥 **I'm looking to collaborate on** [project name](project link)
-
-💡 **I'm looking for help with** [project name](project link)
+🚀 **I'm currently working on** [CuyblyMC](https://github.com/CublyMC)
 
 🌱 **I'm currently learning:** Clean Code practices, Performance Optimization, System Design and Design Patterns
 
-⚡ **Fun fact:** Write here something interesting about you!
+⚡ **Fun fact:**  I spend more time customizing my IDE than actually coding in it.
 
 ## 🎵 Currently Listening
 
