@@ -6,7 +6,7 @@
 
 ## 💻 Current Work
 
-🚀 **I'm currently working on** [CuyblyMC](https://github.com/CublyMC)
+🚀 **I'm currently working on** [CublyMC](https://github.com/CublyMC)
 
 🌱 **I'm currently learning:** Clean Code practices, Performance Optimization, System Design and Design Patterns
 
